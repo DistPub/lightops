@@ -8,8 +8,8 @@
 
 example:
 
-    1. 如果你的shell为`/bin/bash`，则`rc file`为`$HOME/.bash_profile`
-    1. 如果你的shell为`/bin/zsh`，则`rc file`为`$HOME/.oh-my-zsh/oh-my-zsh.sh`
+1. 如果你的shell为`/bin/bash`，则`rc file`为`$HOME/.bash_profile`
+1. 如果你的shell为`/bin/zsh`，则`rc file`为`$HOME/.oh-my-zsh/oh-my-zsh.sh`
 
 ### core commands
 
