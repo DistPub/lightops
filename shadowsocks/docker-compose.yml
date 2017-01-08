@@ -1,0 +1,7 @@
+shadowsocks:
+  image: mritd/shadowsocks
+  command: -k shadowsocks-password -w 3 -f
+  tty: true
+  restart: always
+  ports:
+    - 8388:5000

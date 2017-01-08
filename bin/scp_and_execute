@@ -1,0 +1,3 @@
+#!/bin/bash
+. scp_to_server $1
+ssh -t $server $remote_file
